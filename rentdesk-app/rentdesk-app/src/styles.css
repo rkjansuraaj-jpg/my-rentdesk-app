@@ -1,9 +1,0 @@
-* { box-sizing: border-box; }
-html, body, #root { margin: 0; padding: 0; height: 100%; }
-body {
-  font-family: 'Inter', system-ui, sans-serif;
-  background: #F6F5F1;
-  color: #1C2333;
-}
-button { font-family: inherit; }
-input, select, textarea { font-family: inherit; }
